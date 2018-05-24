@@ -13,7 +13,7 @@ return j;
 
 class statmeth{
 public static void main(String args[]){
-int x = utilit.SumOfFirstHundredNum();
+int x = utilit.SumOfFirstHundredNum();// Since it is a static variable, a object creation is not required
 System.out.println(x);
 }
 }
