@@ -18,5 +18,6 @@ System.out.println(s2.Bankname);
 System.out.println(s1.IFSC);
 System.out.println(s2.IFSC);
 System.out.println(stat.Bankname);
+System.out.println(stat.IFSC);
 }
 }
