@@ -37,7 +37,7 @@ System.out.println("Eating Cooked Food");
 }
 }
 
-class ClassImplementsMultipleClass{
+class ClassImplementsMultipleInterfaces{
 public static void main(String args[]){
 Man m = new Man();
 m.digestion();
